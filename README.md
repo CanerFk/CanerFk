@@ -1,4 +1,4 @@
-<img src="https://w0.peakpx.com/wallpaper/541/100/HD-wallpaper-futuristic-city-futuristic-night-blue-city-lake-purple-pink-neon-nightscape-moon-luna-water.jpg" alt="Coding" width=1600 height=500 align="center">
+<img src="https://w0.peakpx.com/wallpaper/541/100/HD-wallpaper-futuristic-city-futuristic-night-blue-city-lake-purple-pink-neon-nightscape-moon-luna-water.jpg" alt="Coding" width=1000 height=300 align="center">
 <h1 align="center">Hi, I'm Caner Furkan</h1>
 <h3 align="center">I'm interested in Software and Game Development.</h3>
 
