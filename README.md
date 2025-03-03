@@ -1,6 +1,6 @@
 <img src="https://w0.peakpx.com/wallpaper/541/100/HD-wallpaper-futuristic-city-futuristic-night-blue-city-lake-purple-pink-neon-nightscape-moon-luna-water.jpg" alt="Coding" width=1000 height=400 align="center">
 <h1 align="center">Hi 👋, I'm Caner Furkan</h1>
-<h3 align="center">I'm interested in Software and Game Development.</h3>
+<h3 align="center">I'm interested in System programming & Software Development.</h3>
 
 - 🌱 I’m currently learning **Natural Learning Processing**
 
