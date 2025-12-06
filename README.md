@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Caner Furkan</h1>
-<h3 align="center">I'm interested in System programming & Software Development.</h3>
+<h3 align="center">I'm interested in System Programming & Software Development.</h3>
 
 - My main focus is systems and low-level software engineering.
 - Professionally, I also build backend services and AI-powered solutions used in production.
