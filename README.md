@@ -22,7 +22,7 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
-  <img width="12" />
+  <img src="https://gitlab.com/qemu-project/qemu/-/raw/864ab314f1d924129d06ac7b571f105a2b76a4b2/ui/icons/qemu.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" />
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" />
