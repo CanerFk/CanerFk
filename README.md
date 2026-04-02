@@ -3,14 +3,14 @@
        alt="Coding" width="1000" height="500">
 </div>
 
-<h1 align="center">Hi 👋, I'm Caner Furkan</h1>
+<h1 align="center">Hi, I'm Caner</h1>
 <h3 align="center">I'm interested in System Programming & Software Development.</h3>
 
 - My main focus is systems and low-level software engineering.
 - Professionally, I also build backend services and AI-powered solutions used in production.
 
-- 📚 Currently exploring: **Natural Language Processing**
-- 📫 Contact: **canerfkarali@gmail.com**
+- Currently exploring: **Natural Language Processing**
+- Contact: **canerfkarali@gmail.com**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
